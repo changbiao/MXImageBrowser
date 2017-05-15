@@ -17,12 +17,12 @@ MXImageBrowser is available through [CocoaPods](http://cocoapods.org). To instal
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod "MXImageBrowser"
+pod 'MXImageBrowser', :git => 'https://github.com/changbiao/MXImageBrowser.git'
 ```
 
 ## Author
 
-changbiao, 5.5.5.b.i.a.o@163.com
+Meniny
 
 ## License
 
