@@ -1,0 +1,6 @@
+framework module Pods_MXImageBrowser_Example {
+  umbrella header "Pods-MXImageBrowser_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

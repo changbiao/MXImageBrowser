@@ -1,0 +1,22 @@
+PODS:
+  - Expecta (1.0.5)
+  - MXImageBrowser (0.1.0)
+  - Specta (1.0.6)
+
+DEPENDENCIES:
+  - Expecta
+  - MXImageBrowser (from `../`)
+  - Specta
+
+EXTERNAL SOURCES:
+  MXImageBrowser:
+    :path: ../
+
+SPEC CHECKSUMS:
+  Expecta: e1c022fcd33910b6be89c291d2775b3fe27a89fe
+  MXImageBrowser: 890c8e16d232f5f761653a09a91ab2b3b9287f1a
+  Specta: f506f3a8361de16bc0dcf3b17b75e269072ba465
+
+PODFILE CHECKSUM: c91a30fc7feec24b86aecdb9ff9040787345b28c
+
+COCOAPODS: 1.2.1

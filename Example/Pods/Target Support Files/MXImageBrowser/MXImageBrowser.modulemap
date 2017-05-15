@@ -1,0 +1,6 @@
+framework module MXImageBrowser {
+  umbrella header "MXImageBrowser-umbrella.h"
+
+  export *
+  module * { export * }
+}
