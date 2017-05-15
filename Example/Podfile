@@ -1,0 +1,12 @@
+use_frameworks!
+
+target 'MXImageBrowser_Example' do
+  pod 'MXImageBrowser', :path => '../'
+
+  target 'MXImageBrowser_Tests' do
+    inherit! :search_paths
+
+    pod 'Specta'
+  pod 'Expecta'
+  end
+end
